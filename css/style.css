@@ -242,6 +242,8 @@ img {
 
 /*pages*/
 /* #page1 {
+	padding-top: 30px;
+	padding-bottom: 90px;
 	padding-bottom: 191px;
 }
 
@@ -266,6 +268,8 @@ header.page5 .men4 .hover{
 } */
 
 #page2 {
+		padding-top: 30px;
+	padding-bottom: 90px;
 	/* background-color: #f17c72; */
 	/* padding-top: 30px;
 	padding-bottom:90px; */
@@ -282,6 +286,8 @@ header.page5 .men4 .hover{
 
 
 #page3 {
+		padding-top: 30px;
+	padding-bottom: 90px;
 	/* background-color: #32ac97; */
 	/* padding-top: 230px; */
 }
