@@ -1,11 +1,10 @@
-@import url(http://fonts.googleapis.com/css?family=Signika:400,300,600,700);
+/* @import url(http://fonts.googleapis.com/css?family=Signika:400,300,600,700); */
 
 @import "../css/reset.css";
 @import "../css/grid.css";
 @import "../css/superfish.css";
 
-/* Body
-------------------------------------- */
+/* Body */
 body {
 		background: #ffffff;
     font-family: 'Source Sans Pro', sans-serif;
@@ -24,9 +23,7 @@ html {
 }
 
 
-/* Typography
-------------------------------------- */
-
+/* T */
 h1,h2,h3,h4 {
   font-weight: 400;
   letter-spacing: 0.3rem;
@@ -86,8 +83,7 @@ img {
 }
 
 
-/* preloader styles
-/* ========================================== */
+/* preloader styles*/
 .preloader {
     position: fixed;
     top: 0;
@@ -131,8 +127,7 @@ img {
 
 
 
-/* header section styles
-/* ========================================== */
+/* header section styles */
 #header {
   -webkit-background-size: cover;
   background-size: cover;
@@ -244,49 +239,23 @@ img {
 /* #page1 {
 	padding-top: 30px;
 	padding-bottom: 90px;
-	padding-bottom: 191px;
 }
-
-header.page1 .men .hover{
-	top: 0;
-}
-
-header.page2 .men1 .hover{
-	top: 0;
-}
-
-header.page3 .men2 .hover{
-	top: 0;
-}
-
-header.page4 .men3 .hover{
-	top: 0;
-}
-
-header.page5 .men4 .hover{
-	top: 0;
-} */
+ */
 
 #page2 {
-		padding-top: 30px;
-	padding-bottom: 90px;
+	padding-top: 30px;
+/* 	padding-bottom: 90px; */
 	/* background-color: #f17c72; */
 	/* padding-top: 30px;
 	padding-bottom:90px; */
 }
 
-/* header.page2 {
-	background-color: #f17c72;
-} */
-
-/* header.page2 .hover {
-	background-color: #e6655e;
-} */
+ */
 
 
 
 #page3 {
-		padding-top: 30px;
+	padding-top: 30px;
 	padding-bottom: 90px;
 	/* background-color: #32ac97; */
 	/* padding-top: 230px; */
@@ -317,11 +286,9 @@ header.page4 .hover {
 
 
 #page5 {
-
 	padding-top: 30px;
 	padding-bottom: 90px;
-	/* background-color: #3f9fc9; */
-}
+	}
 /*
 
 header.page5{
@@ -356,7 +323,6 @@ header.page5 .hover {
 
 
 /* footer section styles
-/* ========================================== */
 footer {
 	display: block;
   background: #141414;
@@ -399,7 +365,6 @@ footer {
 }
 
 /* Responsive Mobile styles
-/* ========================================== */
 @media (max-width: 980px) {
 
   .intro-inner {top: 30%;}
